@@ -1,0 +1,4 @@
+name: Konriah
+version: '1.0-SNAPSHOT'
+main: io.github.rileythe3rd.konriah.Konriah
+api-version: '1.21'
