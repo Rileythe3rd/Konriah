@@ -8,7 +8,7 @@ public class PowerManager implements Listener {
 
 
 
-    //We want an event listener onPlayerSneak that runs checks and activtaes power
+    //We want an event listener onPlayerSneak that runs checks and activates power
     //this.activate(slot[slot], event.getPlayer());
 
     @EventHandler
@@ -21,6 +21,6 @@ public class PowerManager implements Listener {
 
     }
 
-    //add player data to turn off/on powers. Check for vision and isncribed pwoers.
+    //add player data to turn off/on powers. Check for vision and inscribed powers.
 }
 
